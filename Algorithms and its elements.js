@@ -1,5 +1,5 @@
 
-let sentence="Hello Go my Code"
+let sentence="Hello Go my Code."
 
 let num_of_characteres=sentence.split(' ').join("").length
 console.log(num_of_characteres)
